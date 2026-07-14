@@ -164,15 +164,14 @@ My goal is to become a professional **Web Application Penetration Tester** by co
 ```yaml
 Operating System:
   - Kali Linux
-  - Windows
 
 Editor:
   - Visual Studio Code
+  - Nano
 
 Languages:
   - Python
   - Bash
-  - Java
 
 Version Control:
   - Git
@@ -180,7 +179,7 @@ Version Control:
 
 Focus:
   - Web Application Security
-  - Offensive Security
+  - System Security
   - Security Automation
 ```
 
