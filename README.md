@@ -214,6 +214,10 @@ Hack • Learn • Build • Repeat 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://ganesha-hk.gitbook.io/cybersecurity-writeups">
+<img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ganesha-hk-948b71386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
