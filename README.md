@@ -27,7 +27,7 @@ Name        : Ganesha HK
 Role        : Cybersecurity Engineering Student
 Speciality  : Web Application Penetration Testing
 Platform    : Kali Linux
-Languages   : Python • Bash • Java
+Languages   : Python • Bash
 ```
 
 I am passionate about **Web Application Security**, **Offensive Security**, and **Manual Penetration Testing**.
@@ -52,6 +52,35 @@ My goal is to become a professional **Web Application Penetration Tester** by co
 
 ---
 
+# 📚 Knowledge Base
+
+I document my cybersecurity learning journey by creating detailed notes, writeups, and practical guides.
+
+### 📖 GitBook
+
+<p align="center">
+
+<a href="https://YOUR_GITBOOK_URL">
+<img src="https://img.shields.io/badge/📚%20Cybersecurity%20GitBook-00C853?style=for-the-badge"/>
+</a>
+
+</p>
+
+### Contents
+
+- 🔐 Web Application Penetration Testing
+- 🧪 PortSwigger Web Security Academy Notes
+- 🏴 Capture The Flag (CTF) Writeups
+- 🛡 Certified Web-RTA (CWL) Notes
+- 📖 Privilege Escalation
+- 🐧 Linux Security
+- 🌐 Networking Notes
+- 📚 Cheatsheets & Payload Collections
+- 🔍 Security Research
+
+> **My GitBook serves as a personal knowledge base where I document everything I learn in cybersecurity and offensive security.**
+
+---
 
 # 🛠 Technical Skills
 
