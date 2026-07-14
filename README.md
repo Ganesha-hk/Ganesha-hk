@@ -27,7 +27,7 @@ Name        : Ganesha HK
 Role        : Cybersecurity Engineering Student
 Speciality  : Web Application Penetration Testing
 Platform    : Kali Linux
-Languages   : Python • Bash
+Languages   : Python • Bash • JavaScript
 ```
 
 I am passionate about **Web Application Security**, **Offensive Security**, and **Manual Penetration Testing**.
@@ -195,12 +195,12 @@ Operating System:
   - Kali Linux
 
 Editor:
-  - Visual Studio Code
   - Nano
 
 Languages:
   - Python
   - Bash
+  - JavaScript
 
 Version Control:
   - Git
