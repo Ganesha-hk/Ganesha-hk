@@ -6,7 +6,7 @@
 
 ### 🔐 Web Application Penetration Tester • Cybersecurity Engineering Student • CTF Player
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Web+Application+Penetration+Tester;PNPT+Certified;Certified+Web-RTA+(CWL);Bug+Bounty+Learner;CTF+Player;Building+PentestOS;Python+%7C+Burp+Suite+%7C+Linux"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Web+Application+Penetration+Tester;PNPT;Certified+Web-RTA+(CWL);Bug+Bounty+Learner;CTF+Player;Building+PentestOS;Python+%7C+Burp+Suite+%7C+Linux"/>
 
 <br>
 
@@ -52,39 +52,6 @@ My goal is to become a professional **Web Application Penetration Tester** by co
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡 PentestOS
-
-An AI-powered assistant for Web Application Penetration Testers.
-
-### Features
-
-- Burp Suite Integration
-- AI Attack Assistant
-- Payload Suggestions
-- Engagement Memory
-- Attack Graph
-- Report Generator
-- Knowledge Base
-- Workspace Management
-
----
-
-## 🔐 SSH Brute Force Detection
-
-Python-based cross-platform security monitoring tool.
-
-### Features
-
-- Real-time Monitoring
-- Failed Login Detection
-- Attack Source Identification
-- Alert Generation
-- Attack Dashboard
-- Security Event Logging
-
----
 
 # 🛠 Technical Skills
 
